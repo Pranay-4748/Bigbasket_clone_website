@@ -42,7 +42,8 @@ To run the project locally on your machine, follow these steps:
 
 1. Clone the repository to your local machine.
    
-   git clone https://github.com/your-username/bigbasket-clone.git
+   git clone (https://github.com/Pranay-4748/Bigbasket_clone_website/)
+
    
 
 2. Navigate to the project directory.
