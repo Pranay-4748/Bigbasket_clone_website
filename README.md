@@ -21,7 +21,7 @@ Please note that this project is solely for educational and non-commercial purpo
 
 ## Demo
 
-You can access the live demo of the BigBasket Clone Website at [https://your-demo-url.com](https://bigbasket-clone-website.netlify.app/).
+You can access the live demo of the BigBasket Clone Website at [https://bigbasket-clone-website.netlify.app/].
 
 ## Features
 
